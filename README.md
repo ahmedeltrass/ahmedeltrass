@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Eltrass  
 
-<!--
-**ahmedeltrass/ahmedeltrass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **iOS Developer | Swift & SwiftUI Enthusiast**  
+Passionate about building clean, scalable, and user-friendly mobile applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📱 Specialized in **iOS Development** using Swift & SwiftUI.  
+- 🏗 Following **Clean Architecture & MVVM** best practices.  
+- 🔗 Experienced with integrating **RESTful APIs** & third-party SDKs.  
+- 🌍 Based in Egypt.  
+
+---
+
+## 🛠 Tech Stack
+- **Languages:** Swift, SwiftUI, Combine, UIKit  
+- **Tools:** Xcode, Git, GitHub, Figma  
+- **Architecture:** MVVM, Clean Architecture, Dependency Injection  
+
+---
+
+## 📂 Featured Projects
+- 🎬 [MovieApp](https://github.com/ahmedeltrass/MovieApp) – A SwiftUI app fetching movies from TMDb API with clean MVVM architecture.  
+- 📘 StudentPackageIos – (Add short description + link when repo is public).  
+
+---
+
+## 📫 Get in Touch
+- 💼 [LinkedIn](https://www.linkedin.com/in/ahmedeltrass/)  
+- 📧 ahmed.eltrass@email.com  
+- 🐦 (Optional: Twitter/GitHub links if active)  
+
+---
+⭐️ From [Ahmed Eltrass](https://github.com/ahmedeltrass)
