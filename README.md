@@ -1,63 +1,33 @@
-# 👋 Hi, I'm Ahmed Mohamed Eltrass  
+![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/ios-development.gif)
 
-🚀 **Mobile Developer (iOS | Flutter)**  
-📍 Cairo, Egypt | 📧 aeltrass@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/ahmedeltrass) | 💻 [GitHub](https://github.com/ahmedeltrass)
+<h1 align="center">Hi 👋, I'm Ahmed Eltrass</h1>
+<h3 align="center">Mobile Developer (iOS | Flutter) from Egypt</h3>
 
----
+<div align="center" style="margin: 50px ; border-radius: 15px;">
+  <img style="border-radius: 15px;" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+</div>
 
-## 🔹 About Me
-- iOS Developer with **3+ years of experience** in Swift, SwiftUI, and UIKit  
-- Built and launched **7+ production apps** with **30K+ total downloads** on the App Store  
-- Skilled in **MVVM, Clean Architecture, and SOLID principles**  
-- Strong focus on **performance optimization, crash reduction, and user experience**  
+- 🔭 I’m currently working at **POMAC** as Mobile Developer (iOS & Flutter)  
+- 📱 Delivered **7+ production-grade apps** with 30K+ combined downloads on App Store  
+- 🌱 I’m currently learning **Swift Concurrency, Combine, and Advanced Flutter**  
+- 💬 Ask me about **iOS Development, SwiftUI, UIKit, Firebase, MVVM, Clean Architecture**  
+- 📫 Reach me at **aeltrass@gmail.com**  
 
----
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/ahmedeltrass" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:aeltrass@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" width="40" />
+  </a>
+</p>
 
-## 💼 Professional Experience
-**Mobile Developer (iOS & Flutter)** – POMAC (Aug 2023 – Present)  
-- Optimized SwiftUI rendering → reduced screen load time by **40%**  
-- Reduced crash frequency by **35%** using Instruments & unit testing  
-- Contributed to 2 Flutter apps (UI components, API integration, performance tuning)  
-
-**iOS Developer (Remote)** – CAP Company, Saudi Arabia (Oct 2022 – Jul 2023)  
-- Built and launched **5+ educational apps** → **30K+ downloads**  
-- Integrated **Firebase Crashlytics**, reduced bug resolution time by **30%**  
-- Expanded user base by **100%** with **Arabic/English localization**  
-- Managed **App Store deployment** via TestFlight & App Store Connect  
-
----
-
-## 📱 Featured Projects
-- 🎟️ [**Hajazt**](https://apps.apple.com/eg/app/hajazt/id6471582541) – Event booking app | *SwiftUI, Firebase*  
-- 🏫 [**Fateen**](https://apps.apple.com/eg/app/fateen/id6479988897) – Student productivity & habit tracker | *UIKit, CoreData*  
-- 🚖 [**CAB**](https://apps.apple.com/us/app/cab/id6472556895) – Ride-hailing app with live GPS tracking | *UIKit, CoreLocation*  
-- 🎓 [**Student Package**](https://apps.apple.com/eg/app/student-package/id6444342283) – Educational tracking app | *UIKit, Firebase*  
-- ⚽ [**FansDerby**](https://play.google.com/store/apps/details?id=com.pomac.fansderby) – Sports engagement app | *Flutter*  
-
----
-
-## 🛠️ Tech Stack
-- **Languages:** Swift, SwiftUI, UIKit, Flutter (Dart)  
-- **iOS Frameworks:** CoreData, AVFoundation, MapKit, SiriKit, StoreKit  
-- **Backend & APIs:** REST, GraphQL, Alamofire, Firebase Suite  
-- **Tools:** Xcode, Instruments, GitHub Actions, Postman  
-- **Architecture:** MVVM, Clean Architecture, SOLID  
-
----
-
-## 🏆 Achievements
-- 🚀 Delivered **7+ production-grade apps** with **30K+ downloads**  
-- 🛡️ Reduced crash rates by **35%** with performance tuning & debugging  
-- ⚡ Improved release cycles by **50%** using CI/CD pipelines  
-- 🌍 Expanded market reach by **100%** with bilingual app localization  
-
----
-
-## 🎓 Education
-**B.Sc. Computer Science** – University of Mansoura, Egypt (2015 – 2019)
-
----
-
-## 🌐 Languages
-- 🇪🇬 Arabic: Native  
-- 🇬🇧 English: Intermediate (B1)  
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" alt="git" width="40" height="40"/>
+</p>
